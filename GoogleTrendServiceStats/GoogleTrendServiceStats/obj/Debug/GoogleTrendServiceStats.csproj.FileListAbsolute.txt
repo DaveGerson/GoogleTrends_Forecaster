@@ -1,0 +1,22 @@
+C:\Users\gerson64\Desktop\Dropbox Sync\Dropbox\Fall 2014\XML\Week 5\GoogleTrendServiceStats\GoogleTrendServiceStats\bin\GoogleTrendServiceStats.dll
+C:\Users\gerson64\Desktop\Dropbox Sync\Dropbox\Fall 2014\XML\Week 5\GoogleTrendServiceStats\GoogleTrendServiceStats\bin\GoogleTrendServiceStats.pdb
+C:\Users\gerson64\Desktop\Dropbox Sync\Dropbox\Fall 2014\XML\Week 5\GoogleTrendServiceStats\GoogleTrendServiceStats\bin\MathNet.Numerics.dll
+C:\Users\gerson64\Desktop\Dropbox Sync\Dropbox\Fall 2014\XML\Week 5\GoogleTrendServiceStats\GoogleTrendServiceStats\bin\MathNet.Numerics.xml
+C:\Users\gerson64\Desktop\Dropbox Sync\Dropbox\Fall 2014\XML\Week 5\GoogleTrendServiceStats\GoogleTrendServiceStats\obj\Debug\GoogleTrendServiceStats.csprojResolveAssemblyReference.cache
+C:\Users\gerson64\Desktop\Dropbox Sync\Dropbox\Fall 2014\XML\Week 5\GoogleTrendServiceStats\GoogleTrendServiceStats\obj\Debug\GoogleTrendServiceStats.dll
+C:\Users\gerson64\Desktop\Dropbox Sync\Dropbox\Fall 2014\XML\Week 5\GoogleTrendServiceStats\GoogleTrendServiceStats\obj\Debug\GoogleTrendServiceStats.pdb
+C:\Users\gerson64\Desktop\Dropbox Sync\Dropbox\Fall 2014\XML\Week 5\GoogleTrendServiceStats\GoogleTrendServiceStats\bin\testresources\googleout.js
+C:\Users\gerson64\Desktop\Dropbox Sync\Dropbox\Fall 2014\XML\Week 5\GoogleTrendServiceStats\GoogleTrendServiceStats\bin\Newtonsoft.Json.dll
+C:\Users\gerson64\Desktop\Dropbox Sync\Dropbox\Fall 2014\XML\Week 5\GoogleTrendServiceStats\GoogleTrendServiceStats\bin\Newtonsoft.Json.xml
+C:\Users\gerson64\Desktop\Dropbox Sync\Dropbox\Fall 2014\XML\Week 5\GoogleTrendServiceStats\GoogleTrendServiceStats\bin\GAF.dll
+C:\Users\gerson64\Documents\GitHub\GoogleTrends_Forecaster\GoogleTrendServiceStats\GoogleTrendServiceStats\bin\testresources\googleout.js
+C:\Users\gerson64\Documents\GitHub\GoogleTrends_Forecaster\GoogleTrendServiceStats\GoogleTrendServiceStats\bin\GoogleTrendServiceStats.dll
+C:\Users\gerson64\Documents\GitHub\GoogleTrends_Forecaster\GoogleTrendServiceStats\GoogleTrendServiceStats\bin\GoogleTrendServiceStats.pdb
+C:\Users\gerson64\Documents\GitHub\GoogleTrends_Forecaster\GoogleTrendServiceStats\GoogleTrendServiceStats\bin\GAF.dll
+C:\Users\gerson64\Documents\GitHub\GoogleTrends_Forecaster\GoogleTrendServiceStats\GoogleTrendServiceStats\bin\MathNet.Numerics.dll
+C:\Users\gerson64\Documents\GitHub\GoogleTrends_Forecaster\GoogleTrendServiceStats\GoogleTrendServiceStats\bin\Newtonsoft.Json.dll
+C:\Users\gerson64\Documents\GitHub\GoogleTrends_Forecaster\GoogleTrendServiceStats\GoogleTrendServiceStats\bin\MathNet.Numerics.xml
+C:\Users\gerson64\Documents\GitHub\GoogleTrends_Forecaster\GoogleTrendServiceStats\GoogleTrendServiceStats\bin\Newtonsoft.Json.xml
+C:\Users\gerson64\Documents\GitHub\GoogleTrends_Forecaster\GoogleTrendServiceStats\GoogleTrendServiceStats\obj\Debug\GoogleTrendServiceStats.csprojResolveAssemblyReference.cache
+C:\Users\gerson64\Documents\GitHub\GoogleTrends_Forecaster\GoogleTrendServiceStats\GoogleTrendServiceStats\obj\Debug\GoogleTrendServiceStats.dll
+C:\Users\gerson64\Documents\GitHub\GoogleTrends_Forecaster\GoogleTrendServiceStats\GoogleTrendServiceStats\obj\Debug\GoogleTrendServiceStats.pdb
